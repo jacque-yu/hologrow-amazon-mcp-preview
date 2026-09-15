@@ -159,7 +159,7 @@
     --tw-contain-paint:  ;
     --tw-contain-style:  
 }
-:is(#google-ads-template, #claude-setup-template) .sr-only {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .sr-only {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -170,813 +170,814 @@
     white-space: nowrap;
     border-width: 0
 }
-:is(#google-ads-template, #claude-setup-template) .absolute {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .absolute {
     position: absolute
 }
-:is(#google-ads-template, #claude-setup-template) .relative {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .relative {
     position: relative
 }
-:is(#google-ads-template, #claude-setup-template) .sticky {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .sticky {
     position: sticky
 }
-:is(#google-ads-template, #claude-setup-template) .inset-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .inset-0 {
     inset: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .top-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .top-0 {
     top: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .z-10 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .z-10 {
     z-index: 10
 }
-:is(#google-ads-template, #claude-setup-template) .mx-auto {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mx-auto {
     margin-left: auto;
     margin-right: auto
 }
-:is(#google-ads-template, #claude-setup-template) .mr-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mr-3 {
     margin-right: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-1 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-1 {
     margin-top: 0.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-1\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-1\.5 {
     margin-top: 0.375rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-10 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-10 {
     margin-top: 2.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-12 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-12 {
     margin-top: 3rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-2 {
     margin-top: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-2\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-2\.5 {
     margin-top: 0.625rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-3 {
     margin-top: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-4 {
     margin-top: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-5 {
     margin-top: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-6 {
     margin-top: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-7 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-7 {
     margin-top: 1.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .mt-9 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .mt-9 {
     margin-top: 2.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .block {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .block {
     display: block
 }
-:is(#google-ads-template, #claude-setup-template) .inline-block {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .inline-block {
     display: inline-block
 }
-:is(#google-ads-template, #claude-setup-template) .flex {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .flex {
     display: flex
 }
-:is(#google-ads-template, #claude-setup-template) .inline-flex {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .inline-flex {
     display: inline-flex
 }
-:is(#google-ads-template, #claude-setup-template) .table {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .table {
     display: table
 }
-:is(#google-ads-template, #claude-setup-template) .grid {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .grid {
     display: grid
 }
-:is(#google-ads-template, #claude-setup-template) .hidden {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .hidden {
     display: none
 }
-:is(#google-ads-template, #claude-setup-template) .aspect-video {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .aspect-video {
     aspect-ratio: 16 / 9
 }
-:is(#google-ads-template, #claude-setup-template) .size-12 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-12 {
     width: 3rem;
     height: 3rem
 }
-:is(#google-ads-template, #claude-setup-template) .size-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-2 {
     width: 0.5rem;
     height: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .size-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-4 {
     width: 1rem;
     height: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .size-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-5 {
     width: 1.25rem;
     height: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .size-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-6 {
     width: 1.5rem;
     height: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .size-\[30px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .size-\[30px\] {
     width: 30px;
     height: 30px
 }
-:is(#google-ads-template, #claude-setup-template) .h-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .h-0 {
     height: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .h-12 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .h-12 {
     height: 3rem
 }
-:is(#google-ads-template, #claude-setup-template) .h-full {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .h-full {
     height: 100%
 }
-:is(#google-ads-template, #claude-setup-template) .max-h-\[540px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-h-\[540px\] {
     max-height: 540px
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-11 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-11 {
     min-height: 2.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-12 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-12 {
     min-height: 3rem
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-20 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-20 {
     min-height: 5rem
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-\[190px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-\[190px\] {
     min-height: 190px
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-\[210px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-\[210px\] {
     min-height: 210px
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-\[286px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-\[286px\] {
     min-height: 286px
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-\[420px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-\[420px\] {
     min-height: 420px
 }
-:is(#google-ads-template, #claude-setup-template) .min-h-\[66px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-h-\[66px\] {
     min-height: 66px
 }
-:is(#google-ads-template, #claude-setup-template) .w-full {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .w-full {
     width: 100%
 }
-:is(#google-ads-template, #claude-setup-template) .min-w-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-w-0 {
     min-width: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-2xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-2xl {
     max-width: 42rem
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-3xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-3xl {
     max-width: 48rem
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-\[1180px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-\[1180px\] {
     max-width: 1180px
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-\[646px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-\[646px\] {
     max-width: 646px
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-\[760px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-\[760px\] {
     max-width: 760px
 }
-:is(#google-ads-template, #claude-setup-template) .max-w-\[900px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .max-w-\[900px\] {
     max-width: 900px
 }
-:is(#google-ads-template, #claude-setup-template) .shrink-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .shrink-0 {
     flex-shrink: 0
 }
-:is(#google-ads-template, #claude-setup-template) .cursor-pointer {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .cursor-pointer {
     cursor: pointer
 }
-:is(#google-ads-template, #claude-setup-template) .resize-y {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .resize-y {
     resize: vertical
 }
-:is(#google-ads-template, #claude-setup-template) .scroll-mt-24 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .scroll-mt-24 {
     scroll-margin-top: 6rem
 }
-:is(#google-ads-template, #claude-setup-template) .scroll-mt-28 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .scroll-mt-28 {
     scroll-margin-top: 7rem
 }
-:is(#google-ads-template, #claude-setup-template) .list-none {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .list-none {
     list-style-type: none
 }
-:is(#google-ads-template, #claude-setup-template) .grid-cols-\[28px_1fr\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .grid-cols-\[28px_1fr\] {
     grid-template-columns: 28px 1fr
 }
-:is(#google-ads-template, #claude-setup-template) .flex-col {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .flex-col {
     flex-direction: column
 }
-:is(#google-ads-template, #claude-setup-template) .flex-wrap {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .flex-wrap {
     flex-wrap: wrap
 }
-:is(#google-ads-template, #claude-setup-template) .place-items-center {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .place-items-center {
     place-items: center
 }
-:is(#google-ads-template, #claude-setup-template) .items-start {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .items-start {
     align-items: flex-start
 }
-:is(#google-ads-template, #claude-setup-template) .items-center {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .items-center {
     align-items: center
 }
-:is(#google-ads-template, #claude-setup-template) .justify-center {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .justify-center {
     justify-content: center
 }
-:is(#google-ads-template, #claude-setup-template) .justify-between {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .justify-between {
     justify-content: space-between
 }
-:is(#google-ads-template, #claude-setup-template) .gap-10 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-10 {
     gap: 2.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-2 {
     gap: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-3 {
     gap: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-4 {
     gap: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-5 {
     gap: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-6 {
     gap: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-\[10px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-\[10px\] {
     gap: 10px
 }
-:is(#google-ads-template, #claude-setup-template) .gap-\[30px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-\[30px\] {
     gap: 30px
 }
-:is(#google-ads-template, #claude-setup-template) .gap-x-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-x-5 {
     column-gap: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .gap-y-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .gap-y-5 {
     row-gap: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) :is(.space-y-2 > :not([hidden]) ~ :not([hidden])) {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) :is(.space-y-2 > :not([hidden]) ~ :not([hidden])) {
     --tw-space-y-reverse: 0;
     margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
     margin-bottom: calc(0.5rem * var(--tw-space-y-reverse))
 }
-:is(#google-ads-template, #claude-setup-template) .self-start {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .self-start {
     align-self: flex-start
 }
-:is(#google-ads-template, #claude-setup-template) .overflow-auto {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .overflow-auto {
     overflow: auto
 }
-:is(#google-ads-template, #claude-setup-template) .overflow-hidden {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .overflow-hidden {
     overflow: hidden
 }
-:is(#google-ads-template, #claude-setup-template) .overflow-x-auto {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .overflow-x-auto {
     overflow-x: auto
 }
-:is(#google-ads-template, #claude-setup-template) .text-balance {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-balance {
     text-wrap: balance
 }
-:is(#google-ads-template, #claude-setup-template) .break-words {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .break-words {
     overflow-wrap: break-word
 }
-:is(#google-ads-template, #claude-setup-template) .rounded {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded {
     border-radius: 0.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-2xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-2xl {
     border-radius: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-\[10px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-\[10px\] {
     border-radius: 10px
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-full {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-full {
     border-radius: 9999px
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-lg {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-lg {
     border-radius: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-md {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-md {
     border-radius: 0.375rem
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-sm {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-sm {
     border-radius: 0.125rem
 }
-:is(#google-ads-template, #claude-setup-template) .rounded-xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .rounded-xl {
     border-radius: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .border {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border {
     border-width: 1px
 }
-:is(#google-ads-template, #claude-setup-template) .border-0 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-0 {
     border-width: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .border-\[0\.5px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-\[0\.5px\] {
     border-width: 0.5px
 }
-:is(#google-ads-template, #claude-setup-template) .border-b {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-b {
     border-bottom-width: 1px
 }
-:is(#google-ads-template, #claude-setup-template) .border-t {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-t {
     border-top-width: 1px
 }
-:is(#google-ads-template, #claude-setup-template) .border-t-\[0\.5px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-t-\[0\.5px\] {
     border-top-width: 0.5px
 }
-:is(#google-ads-template, #claude-setup-template) .border-\[\#10231c\]\/10 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-\[\#10231c\]\/10 {
     border-color: rgb(16 35 28 / 0.1)
 }
-:is(#google-ads-template, #claude-setup-template) .border-\[\#10231c\]\/15 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-\[\#10231c\]\/15 {
     border-color: rgb(16 35 28 / 0.15)
 }
-:is(#google-ads-template, #claude-setup-template) .border-\[\#10231c\]\/20 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-\[\#10231c\]\/20 {
     border-color: rgb(16 35 28 / 0.2)
 }
-:is(#google-ads-template, #claude-setup-template) .border-\[\#10231c\]\/\[0\.14\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-\[\#10231c\]\/\[0\.14\] {
     border-color: rgb(16 35 28 / 0.14)
 }
-:is(#google-ads-template, #claude-setup-template) .border-red-200 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .border-red-200 {
     --tw-border-opacity: 1;
     border-color: rgb(254 202 202 / var(--tw-border-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#7ba81f\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#7ba81f\] {
     --tw-bg-opacity: 1;
     background-color: rgb(123 168 31 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#d0ef34\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#d0ef34\] {
     --tw-bg-opacity: 1;
     background-color: rgb(208 239 52 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#eaf2d4\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#eaf2d4\] {
     --tw-bg-opacity: 1;
     background-color: rgb(234 242 212 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#ebe7ff\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#ebe7ff\] {
     --tw-bg-opacity: 1;
     background-color: rgb(235 231 255 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#edf2ef\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#edf2ef\] {
     --tw-bg-opacity: 1;
     background-color: rgb(237 242 239 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#f4f6f6\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#f4f6f6\] {
     --tw-bg-opacity: 1;
     background-color: rgb(244 246 246 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-\[\#fbfcfc\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-\[\#fbfcfc\] {
     --tw-bg-opacity: 1;
     background-color: rgb(251 252 252 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-red-50 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-red-50 {
     --tw-bg-opacity: 1;
     background-color: rgb(254 242 242 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .bg-white {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .bg-white {
     --tw-bg-opacity: 1;
     background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .object-contain {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .object-contain {
     object-fit: contain
 }
-:is(#google-ads-template, #claude-setup-template) .object-cover {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .object-cover {
     object-fit: cover
 }
-:is(#google-ads-template, #claude-setup-template) .p-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .p-2 {
     padding: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .p-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .p-3 {
     padding: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .p-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .p-4 {
     padding: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .p-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .p-5 {
     padding: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .p-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .p-6 {
     padding: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-1\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-1\.5 {
     padding-left: 0.375rem;
     padding-right: 0.375rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-2\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-2\.5 {
     padding-left: 0.625rem;
     padding-right: 0.625rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-3\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-3\.5 {
     padding-left: 0.875rem;
     padding-right: 0.875rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-4 {
     padding-left: 1rem;
     padding-right: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-5 {
     padding-left: 1.25rem;
     padding-right: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .px-7 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .px-7 {
     padding-left: 1.75rem;
     padding-right: 1.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-1 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-1 {
     padding-top: 0.25rem;
     padding-bottom: 0.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-12 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-12 {
     padding-top: 3rem;
     padding-bottom: 3rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-2 {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-3 {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-4 {
     padding-top: 1rem;
     padding-bottom: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-5 {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-6 {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .py-\[50px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-\[50px\] {
     padding-top: 50px;
     padding-bottom: 50px
 }
-:is(#google-ads-template, #claude-setup-template) .py-\[68px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .py-\[68px\] {
     padding-top: 68px;
     padding-bottom: 68px
 }
-:is(#google-ads-template, #claude-setup-template) .pb-3 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pb-3 {
     padding-bottom: 0.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .pb-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pb-4 {
     padding-bottom: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .pb-8 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pb-8 {
     padding-bottom: 2rem
 }
-:is(#google-ads-template, #claude-setup-template) .pb-\[82px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pb-\[82px\] {
     padding-bottom: 82px
 }
-:is(#google-ads-template, #claude-setup-template) .pl-1\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pl-1\.5 {
     padding-left: 0.375rem
 }
-:is(#google-ads-template, #claude-setup-template) .pr-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pr-6 {
     padding-right: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .pt-0\.5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pt-0\.5 {
     padding-top: 0.125rem
 }
-:is(#google-ads-template, #claude-setup-template) .pt-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pt-5 {
     padding-top: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .pt-\[68px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pt-\[68px\] {
     padding-top: 68px
 }
-:is(#google-ads-template, #claude-setup-template) .pt-\[8\.31px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .pt-\[8\.31px\] {
     padding-top: 8.31px
 }
-:is(#google-ads-template, #claude-setup-template) .text-left {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-left {
     text-align: left
 }
-:is(#google-ads-template, #claude-setup-template) .text-center {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-center {
     text-align: center
 }
-:is(#google-ads-template, #claude-setup-template) .align-top {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .align-top {
     vertical-align: top
 }
-:is(#google-ads-template, #claude-setup-template) .font-\[family-name\:var\(--font-action\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-\[family-name\:var\(--font-action\)\] {
     font-family: var(--font-action)
 }
-:is(#google-ads-template, #claude-setup-template) .font-mono {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
-:is(#google-ads-template, #claude-setup-template) .text-2xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-2xl {
     font-size: 1.5rem;
     line-height: 2rem
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[10px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[10px\] {
     font-size: 10px
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[11px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[11px\] {
     font-size: 11px
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[12px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[12px\] {
     font-size: 12px
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[16px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[16px\] {
     font-size: 16px
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[clamp\(2\.1rem\2c 3vw\2c 2\.625rem\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[clamp\(2\.1rem\2c 3vw\2c 2\.625rem\)\] {
     font-size: clamp(2.1rem, 3vw, 2.625rem)
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[clamp\(2rem\2c 3vw\2c 2\.25rem\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[clamp\(2rem\2c 3vw\2c 2\.25rem\)\] {
     font-size: clamp(2rem, 3vw, 2.25rem)
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[clamp\(2rem\2c 3vw\2c 2\.5rem\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[clamp\(2rem\2c 3vw\2c 2\.5rem\)\] {
     font-size: clamp(2rem, 3vw, 2.5rem)
 }
-:is(#google-ads-template, #claude-setup-template) .text-base {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-base {
     font-size: 1rem;
     line-height: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .text-lg {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .text-sm {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-sm {
     font-size: 0.875rem;
     line-height: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .text-xl {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .text-xs {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-xs {
     font-size: 0.75rem;
     line-height: 1rem
 }
-:is(#google-ads-template, #claude-setup-template) .font-bold {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-bold {
     font-weight: 700
 }
-:is(#google-ads-template, #claude-setup-template) .font-medium {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-medium {
     font-weight: 500
 }
-:is(#google-ads-template, #claude-setup-template) .font-normal {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-normal {
     font-weight: 400
 }
-:is(#google-ads-template, #claude-setup-template) .font-semibold {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .font-semibold {
     font-weight: 600
 }
-:is(#google-ads-template, #claude-setup-template) .uppercase {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .uppercase {
     text-transform: uppercase
 }
-:is(#google-ads-template, #claude-setup-template) .leading-5 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-5 {
     line-height: 1.25rem
 }
-:is(#google-ads-template, #claude-setup-template) .leading-6 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-6 {
     line-height: 1.5rem
 }
-:is(#google-ads-template, #claude-setup-template) .leading-7 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-7 {
     line-height: 1.75rem
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[1\.16\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[1\.16\] {
     line-height: 1.16
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[1\.28\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[1\.28\] {
     line-height: 1.28
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[1\.3\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[1\.3\] {
     line-height: 1.3
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[17\.38px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[17\.38px\] {
     line-height: 17.38px
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[17px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[17px\] {
     line-height: 17px
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[18px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[18px\] {
     line-height: 18px
 }
-:is(#google-ads-template, #claude-setup-template) .leading-\[26px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-\[26px\] {
     line-height: 26px
 }
-:is(#google-ads-template, #claude-setup-template) .leading-tight {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .leading-tight {
     line-height: 1.25
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-\[-0\.025em\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-\[-0\.025em\] {
     letter-spacing: -0.025em
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-\[0\.12em\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-\[0\.12em\] {
     letter-spacing: 0.12em
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-\[0\.14em\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-\[0\.14em\] {
     letter-spacing: 0.14em
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-\[1\.4px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-\[1\.4px\] {
     letter-spacing: 1.4px
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-\[1px\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-\[1px\] {
     letter-spacing: 1px
 }
-:is(#google-ads-template, #claude-setup-template) .tracking-tight {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .tracking-tight {
     letter-spacing: -0.025em
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#10231c\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#10231c\] {
     --tw-text-opacity: 1;
     color: rgb(16 35 28 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#10231c\]\/35 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#10231c\]\/35 {
     color: rgb(16 35 28 / 0.35)
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#10231c\]\/55 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#10231c\]\/55 {
     color: rgb(16 35 28 / 0.55)
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#10231c\]\/65 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#10231c\]\/65 {
     color: rgb(16 35 28 / 0.65)
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#173e36\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#173e36\] {
     --tw-text-opacity: 1;
     color: rgb(23 62 54 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#3f7d65\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#3f7d65\] {
     --tw-text-opacity: 1;
     color: rgb(63 125 101 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#485d32\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#485d32\] {
     --tw-text-opacity: 1;
     color: rgb(72 93 50 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#53635b\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#53635b\] {
     --tw-text-opacity: 1;
     color: rgb(83 99 91 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#597e33\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#597e33\] {
     --tw-text-opacity: 1;
     color: rgb(89 126 51 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-\[\#68756f\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-\[\#68756f\] {
     --tw-text-opacity: 1;
     color: rgb(104 117 111 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .text-red-800 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .text-red-800 {
     --tw-text-opacity: 1;
     color: rgb(153 27 27 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .underline {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .underline {
     text-decoration-line: underline
 }
-:is(#google-ads-template, #claude-setup-template) .underline-offset-2 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .underline-offset-2 {
     text-underline-offset: 2px
 }
-:is(#google-ads-template, #claude-setup-template) .underline-offset-4 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .underline-offset-4 {
     text-underline-offset: 4px
 }
-:is(#google-ads-template, #claude-setup-template) .opacity-90 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .opacity-90 {
     opacity: 0.9
 }
-:is(#google-ads-template, #claude-setup-template) .shadow-\[0_24px_70px_-45px_rgba\(16\2c 35\2c 28\2c 0\.35\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .shadow-\[0_24px_70px_-45px_rgba\(16\2c 35\2c 28\2c 0\.35\)\] {
     --tw-shadow: 0 24px 70px -45px rgba(16,35,28,0.35);
     --tw-shadow-colored: 0 24px 70px -45px var(--tw-shadow-color);
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
 }
-:is(#google-ads-template, #claude-setup-template) .shadow-\[0_24px_70px_-48px_rgba\(16\2c 35\2c 28\2c 0\.45\)\] {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .shadow-\[0_24px_70px_-48px_rgba\(16\2c 35\2c 28\2c 0\.45\)\] {
     --tw-shadow: 0 24px 70px -48px rgba(16,35,28,0.45);
     --tw-shadow-colored: 0 24px 70px -48px var(--tw-shadow-color);
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
 }
-:is(#google-ads-template, #claude-setup-template) .outline-none {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px
 }
-:is(#google-ads-template, #claude-setup-template) .transition {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .transition {
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 150ms
 }
-:is(#google-ads-template, #claude-setup-template) .transition-transform {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .transition-transform {
     transition-property: transform;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 150ms
 }
-:is(#google-ads-template, #claude-setup-template) .duration-200 {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .duration-200 {
     transition-duration: 200ms
 }
-:is(#google-ads-template, #claude-setup-template) :is(.marker\:content-none *)::marker {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) :is(.marker\:content-none *)::marker {
     --tw-content: none;
     content: var(--tw-content)
 }
-:is(#google-ads-template, #claude-setup-template) .marker\:content-none::marker {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .marker\:content-none::marker {
     --tw-content: none;
     content: var(--tw-content)
 }
-:is(#google-ads-template, #claude-setup-template) .placeholder\:text-\[\#68756f\]::placeholder {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .placeholder\:text-\[\#68756f\]::placeholder {
     --tw-text-opacity: 1;
     color: rgb(104 117 111 / var(--tw-text-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .last\:border-0:last-child {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .last\:border-0:last-child {
     border-width: 0px
 }
-:is(#google-ads-template, #claude-setup-template) .last\:border-b-\[0\.5px\]:last-child {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .last\:border-b-\[0\.5px\]:last-child {
     border-bottom-width: 0.5px
 }
-:is(#google-ads-template, #claude-setup-template) .hover\:bg-\[\#e0ff52\]:hover {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .hover\:bg-\[\#e0ff52\]:hover {
     --tw-bg-opacity: 1;
     background-color: rgb(224 255 82 / var(--tw-bg-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .focus\:border-\[\#789600\]:focus {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus\:border-\[\#789600\]:focus {
     --tw-border-opacity: 1;
     border-color: rgb(120 150 0 / var(--tw-border-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .focus\:ring-2:focus {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus\:ring-2:focus {
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)
 }
-:is(#google-ads-template, #claude-setup-template) .focus\:ring-\[\#a3c20a\]\/25:focus {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus\:ring-\[\#a3c20a\]\/25:focus {
     --tw-ring-color: rgb(163 194 10 / 0.25)
 }
-:is(#google-ads-template, #claude-setup-template) .focus-visible\:outline-none:focus-visible {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus-visible\:outline-none:focus-visible {
     outline: 2px solid transparent;
     outline-offset: 2px
 }
-:is(#google-ads-template, #claude-setup-template) .focus-visible\:ring-2:focus-visible {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus-visible\:ring-2:focus-visible {
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)
 }
-:is(#google-ads-template, #claude-setup-template) .focus-visible\:ring-\[\#597e33\]:focus-visible {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus-visible\:ring-\[\#597e33\]:focus-visible {
     --tw-ring-opacity: 1;
     --tw-ring-color: rgb(89 126 51 / var(--tw-ring-opacity, 1))
 }
-:is(#google-ads-template, #claude-setup-template) .focus-visible\:ring-offset-2:focus-visible {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .focus-visible\:ring-offset-2:focus-visible {
     --tw-ring-offset-width: 2px
 }
-:is(#google-ads-template, #claude-setup-template) .disabled\:cursor-wait:disabled {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .disabled\:cursor-wait:disabled {
     cursor: wait
 }
-:is(#google-ads-template, #claude-setup-template) .disabled\:opacity-60:disabled {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .disabled\:opacity-60:disabled {
     opacity: 0.6
 }
-:is(#google-ads-template, #claude-setup-template) :is(.group[open] .group-open\:rotate-180) {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) :is(.group[open] .group-open\:rotate-180) {
     --tw-rotate: 180deg;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
 }
 @media (min-width: 640px) {
-    :is(#google-ads-template, #claude-setup-template) .sm\:col-span-2 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:col-span-2 {
         grid-column: span 2 / span 2
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:grid-cols-2 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:grid-cols-2 {
         grid-template-columns: repeat(2, minmax(0, 1fr))
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:p-4 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:p-4 {
         padding: 1rem
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:p-6 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:p-6 {
         padding: 1.5rem
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:p-7 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:p-7 {
         padding: 1.75rem
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:p-8 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:p-8 {
         padding: 2rem
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:px-8 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:px-8 {
         padding-left: 2rem;
         padding-right: 2rem
     }
-    :is(#google-ads-template, #claude-setup-template) .sm\:py-20 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .sm\:py-20 {
         padding-top: 5rem;
         padding-bottom: 5rem
     }
 }
 @media (min-width: 900px) {
-    :is(#google-ads-template, #claude-setup-template) .min-\[900px\]\:mt-10 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-\[900px\]\:mt-10 {
         margin-top: 2.5rem
     }
-    :is(#google-ads-template, #claude-setup-template) .min-\[900px\]\:flex-row {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-\[900px\]\:flex-row {
         flex-direction: row
     }
-    :is(#google-ads-template, #claude-setup-template) .min-\[900px\]\:items-start {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .min-\[900px\]\:items-start {
         align-items: flex-start
     }
 }
 @media (min-width: 1024px) {
-    :is(#google-ads-template, #claude-setup-template) .lg\:grid-cols-2 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:grid-cols-2 {
         grid-template-columns: repeat(2, minmax(0, 1fr))
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:grid-cols-3 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:grid-cols-3 {
         grid-template-columns: repeat(3, minmax(0, 1fr))
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:grid-cols-4 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:grid-cols-4 {
         grid-template-columns: repeat(4, minmax(0, 1fr))
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:grid-cols-\[260px_1fr_1fr\] {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:grid-cols-\[260px_1fr_1fr\] {
         grid-template-columns: 260px 1fr 1fr
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:grid-cols-\[300px_1fr\] {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:grid-cols-\[300px_1fr\] {
         grid-template-columns: 300px 1fr
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:border-b-0 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:border-b-0 {
         border-bottom-width: 0px
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:border-r {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:border-r {
         border-right-width: 1px
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:px-10 {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:px-10 {
         padding-left: 2.5rem;
         padding-right: 2.5rem
     }
-    :is(#google-ads-template, #claude-setup-template) .lg\:leading-\[50px\] {
+    :is(#google-ads-template, #claude-setup-template, #ai-client-template) .lg\:leading-\[50px\] {
         line-height: 50px
     }
 }
-:is(#google-ads-template, #claude-setup-template) .\[\&\:\:-webkit-details-marker\]\:hidden::-webkit-details-marker {
+:is(#google-ads-template, #claude-setup-template, #ai-client-template) .\[\&\:\:-webkit-details-marker\]\:hidden::-webkit-details-marker {
     display: none
-}:is(#google-ads-template,#claude-setup-template) :where(*,::before,::after){border-width:0;border-style:solid;border-color:#e5e7eb}
+}:where(#ai-client-template) :where(*,::before,::after){border-width:0;border-style:solid;border-color:#e5e7eb}
+:is(#google-ads-template,#claude-setup-template) :where(*,::before,::after){border-width:0;border-style:solid;border-color:#e5e7eb}
 #google-ads-template table{border-collapse:collapse}
 #google-ads-template img{max-width:100%;height:auto}
 /* Shared Figma rails and card treatments, scoped to this page below. */
@@ -1167,3 +1168,105 @@
 #google-ads-template .ga-source-expanding span{margin-left:15px}
 @media(max-width:1000px){#google-ads-template .ga-source-links{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){#google-ads-template .ga-explore-heading{display:block}#google-ads-template .ga-explore-heading>a{margin-top:15px}#google-ads-template .ga-explore-heading h3{font-size:21px}#google-ads-template .ga-source-links{grid-template-columns:1fr}#google-ads-template .ga-source-expanding span{display:block;margin-left:0}}
+/* AI client family: the approved Figma section template with client-specific output. */
+.ai-client-nav{background:#f1f4f0;border-bottom:1px solid #dfe5dc;padding:12px 0}
+.ai-client-nav>.ie-container{display:flex;align-items:center;gap:24px}
+.ai-client-nav>.ie-container>a{font:10px var(--font-action,monospace);letter-spacing:1px;color:#718168;flex-shrink:0}
+.ai-client-links{display:flex;flex-wrap:wrap;gap:8px}
+.ai-client-links>a{display:inline-flex;align-items:center;gap:8px;border:1px solid #dfe5d8;border-radius:7px;background:#fff;padding:8px 11px;font-size:11px;font-weight:600;color:#4d6442;white-space:nowrap}
+.ai-client-links>a[aria-current=page]{background:#eaf3c2;border-color:#c4dc86;color:#294424}
+.ai-client-links>a:hover{background:#eef4de;border-color:#a8bf7a}
+.ai-client-page .ie-hero-grid{grid-template-columns:minmax(0,0.82fr) minmax(0,1.18fr);gap:42px;align-items:center;padding-top:55px;padding-bottom:38px}
+.ai-client-page .ie-hero-copy h1{font-size:clamp(34px,3.9vw,54px);line-height:1.13;letter-spacing:-2px;text-wrap:balance}
+.ai-client-page .ie-hero-copy .ie-lead{font-size:15px;line-height:1.9}
+.ai-client-page .ie-hero-copy .ie-actions{gap:10px;flex-wrap:wrap}
+.ai-client-page .ie-hero-copy .ie-button{font-size:12px;padding:13px 17px}
+.ai-client-page .ie-hero{padding-bottom:20px}
+.ai-client-page .ie-breadcrumb{margin-bottom:12px}
+.ai-client-page .ie-hero-grid{padding-top:22px;padding-bottom:25px}
+.ai-client-page .ie-hero-copy{padding:8px 0}
+.ai-audience{font-size:11px;color:#79836e;margin:0;padding-bottom:36px}
+.ai-hero-shot,.ai-hero-preview{min-width:0;margin:0;border:1px solid #dfe4da;border-radius:18px;padding:12px;background:#ffffffeb;box-shadow:0 22px 45px #26362712;overflow:hidden}
+.ai-shot-top{display:flex;align-items:center;gap:9px;padding:5px 6px 15px;font-size:11px;color:#4d6146}
+.ai-shot-top>span:last-child{margin-left:auto;font-size:9px;color:#7d8875}
+.ai-shot-top img{object-fit:contain}
+.ai-hero-shot>a{display:block;position:relative;border:1px solid #e3e7df;border-radius:9px;overflow:hidden}
+.ai-hero-shot>a>img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;background:#fbfcfc}
+.ai-enlarge{display:flex;align-items:center;gap:6px;position:absolute;bottom:10px;right:10px;background:#fffffff2;border:1px solid #dfe4da;padding:7px 9px;border-radius:5px;font-size:10px}
+.ai-hero-shot figcaption{font-size:9px;line-height:1.7;color:#75826d;padding:11px 6px 1px}
+.ai-hero-preview{padding:20px 23px}
+.ai-preview-body{padding:10px 5px 4px}
+.ai-preview-question{background:#f1f4eb;border:1px solid #e4e9db;border-radius:10px;padding:20px;margin:14px 0 22px;font-size:14px;line-height:1.9}
+.ai-preview-steps>div{display:grid;grid-template-columns:28px 1fr 18px;gap:12px;align-items:center;border-bottom:1px solid #e4e8df;padding:16px 0}
+.ai-preview-steps span{font:10px var(--font-action,monospace);color:#82966a}
+.ai-preview-steps strong{font-size:13px;font-weight:600}
+.ai-preview-steps svg{color:#779d37}
+.ai-preview-body>a{display:flex;align-items:center;gap:10px;padding-top:22px;font-size:11px;color:#617d3b}
+.ai-terminal-preview .ai-preview-question{font-family:var(--font-action,monospace);font-size:12px;background:#f6f8f1}
+.ai-setup-details{max-width:1180px;width:calc(100% - 80px);margin:-30px auto 65px}
+.ai-setup-endpoint{display:flex;align-items:center;justify-content:space-between;gap:22px;padding:19px 22px;border:1px solid #dce4d1;background:#f5f8ee;border-radius:10px}
+.ai-setup-endpoint>div{min-width:0}
+.ai-setup-endpoint .ie-eyebrow{font-size:9px}
+.ai-setup-endpoint code{display:block;margin-top:6px;font-family:var(--font-action,monospace);font-size:13px;overflow-wrap:anywhere}
+.ai-setup-endpoint>span{font-size:11px;color:#718456;text-align:right}
+.ai-setup-links{display:flex;gap:24px;flex-wrap:wrap;padding:23px 0;font-size:12px;color:#658737}
+.ai-verify{border:1px solid #dfe5d7;border-radius:8px;background:#fff}
+.ai-verify summary{display:flex;align-items:center;gap:12px;list-style:none;padding:17px 20px;font-size:12px;font-weight:600;cursor:pointer}
+.ai-verify summary::-webkit-details-marker{display:none}.ai-verify summary>span{margin-left:auto}
+.ai-verify[open] summary>span{transform:rotate(45deg)}
+.ai-verify>div{border-top:1px solid #e3e8dd;padding:17px 20px}.ai-verify p{font-size:12px;line-height:1.85;margin:0 0 14px}
+.ai-setup-note{font-size:10px;line-height:1.9;color:#788571;margin:18px 0 0}
+#ai-client-template .ai-workflow-section{background:#f2f5ef}
+.ai-workflow{display:grid;grid-template-columns:minmax(220px,0.8fr) minmax(0,1.9fr);gap:34px;margin-top:38px;align-items:start}
+.ai-workflow-prompt{padding:16px 0;min-width:0}.ai-workflow-prompt>.ie-eyebrow{font-size:9px;letter-spacing:1px;color:#738d58}
+.ai-workflow-prompt>p{font-size:14px;line-height:1.95;margin:19px 0 24px}
+.ai-workflow-boundary{border-top:1px solid #dce4d5;display:flex;gap:10px;margin-top:28px;padding-top:20px;color:#7d8d70;font-size:10px;align-items:center}
+.ai-workflow-boundary svg{flex-shrink:0}
+.ai-result-window{border:1px solid #dce3d5;border-radius:14px;overflow:hidden;background:#fff;box-shadow:0 14px 32px #21331c07}
+.ai-result-top{display:flex;gap:20px;justify-content:space-between;align-items:center;padding:17px 23px;background:#fafbf7;border-bottom:1px solid #e2e7dd;font-size:13px}
+.ai-result-top>span{font-size:10px;color:#88917e}
+.ai-result-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-bottom:1px solid #dce3d5}
+.ai-result-tabs button{display:flex;align-items:center;justify-content:center;gap:8px;background:#fff;padding:14px 8px;color:#7c8872;font-size:11px;font-weight:600;border:0;border-bottom:2px solid transparent}
+.ai-result-tabs button[aria-selected=true]{background:#f1f6e2;color:#486928;border-bottom-color:#94b84a}
+.ai-result-tabs button>span{font:9px var(--font-action,monospace);opacity:.65}
+.ai-result-scroll{height:clamp(330px,calc(100svh - 275px),505px);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#b8c5a2 #f4f6f0;padding:27px}
+.ai-result-scroll [hidden]{display:none!important}
+.ai-result-scroll .ie-eyebrow{display:flex;align-items:center;gap:7px;font-size:9px;letter-spacing:1px;color:#719447}
+.ai-result-scroll h3{font-size:23px;line-height:1.5;letter-spacing:-.7px;margin:17px 0 12px;text-wrap:balance}
+.ai-result-scroll p{font-size:12px;line-height:1.9;color:#627157;margin:0 0 20px}
+.ai-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border:1px solid #dfe6d4;border-radius:9px;background:#f8faF3;margin:26px 0}
+.ai-metrics>div{padding:16px 13px;min-width:0;border-right:1px solid #dfe6d4}.ai-metrics>div:last-child{border-right:0}
+.ai-metrics span{display:block;font-size:9px;color:#849075;line-height:1.5;margin-bottom:9px}
+.ai-metrics strong{font-size:clamp(15px,1.8vw,23px);font-weight:650;color:#3d572a;line-height:1.5;overflow-wrap:anywhere}
+.ai-result-insight{display:flex;align-items:start;gap:11px;padding:4px 0 16px}.ai-result-insight>svg{color:#779a43;flex-shrink:0;margin-top:3px}
+.ai-result-insight strong{font-size:13px}.ai-result-insight p{font-size:11px;margin:7px 0 0}
+.ai-result-scroll .ai-result-note{font-size:10px;border-top:1px solid #e3e8dc;padding-top:16px;margin:4px 0 0;color:#849177;display:flex;gap:9px}
+.ai-evidence-list>article{border-top:1px solid #e1e7d9;padding:18px 0 8px}.ai-evidence-list>article>span{font:10px var(--font-action,monospace);color:#83916f}
+.ai-evidence-list h4{font-size:14px;line-height:1.7;margin:10px 0 8px}.ai-evidence-list p{font-size:11px;display:flex;gap:9px;align-items:start}.ai-evidence-list svg{flex-shrink:0;margin-top:4px;color:#7b9a4f}
+.ai-action-list{list-style:none;padding:0;margin:20px 0}.ai-action-list>li{display:grid;grid-template-columns:30px 1fr;gap:14px;border-top:1px solid #e1e7d9;padding:20px 0 5px}
+.ai-action-list>li>span{font:11px var(--font-action,monospace);color:#839b60;padding-top:4px}.ai-action-list h4{font-size:15px;margin:0 0 9px;line-height:1.6}.ai-action-list p{font-size:12px}
+#ai-client-template #why-hologrow article:last-child{background:linear-gradient(125deg,#f4f8e5,#e8f1c9);border:1px solid #cbdd9b;box-shadow:0 12px 32px #91ac3711}
+#ai-client-template #why-hologrow article:last-child>p{color:#4e6b28;font-size:11px}
+#ai-client-template #why-hologrow article:last-child li{color:#334f24;font-weight:550}
+#ai-client-template #why-hologrow article:last-child li svg{background:#cfe695;border-radius:50%;padding:3px;width:22px;height:22px;color:#4c7324}
+.ai-source-list{border:1px solid #dde4d7;border-radius:12px;overflow:hidden;margin-top:36px;background:#fff}
+.ai-source-list>a{display:grid;grid-template-columns:245px 1fr 20px;gap:25px;padding:21px 24px;align-items:center;border-bottom:1px solid #e1e7db}
+.ai-source-list>a:last-child{border-bottom:0}.ai-source-list>a:hover{background:#f3f7e8}
+.ai-source-list>a>span{display:flex;align-items:center;gap:15px;font-size:13px}.ai-source-list img{object-fit:contain;width:32px;height:28px}
+.ai-source-list p{font-size:12px;line-height:1.8;color:#6c7a60;margin:0}.ai-source-list>a>svg{color:#83a353}
+.ai-schema-links{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:15px;margin-top:24px}.ai-schema-links a{display:flex;align-items:center;gap:9px;color:#698a3a;font-size:12px}
+.ai-prompt-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:34px}
+.ai-prompt-grid article{display:flex;flex-direction:column;padding:26px;background:#f4f6f3;border:1px solid #dde4d7;border-radius:14px;min-width:0}
+.ai-prompt-grid .ie-step-number{width:max-content;border-radius:5px;background:#d0ef34;padding:4px 10px;line-height:1.7;font-size:10px;border:0}
+.ai-prompt-grid h3{font-size:20px;margin:28px 0 12px;line-height:1.5;letter-spacing:-.5px}
+.ai-prompt-grid p{font-size:12px;color:#6c7863;line-height:1.9;margin:0 0 25px}.ai-prompt-grid .ie-copy-wrap{margin-top:auto}
+.ai-final-cta{display:flex;align-items:center;justify-content:space-between;gap:30px;background:#eef5d9;border:1px solid #d7e4bd;border-radius:14px;padding:35px}
+.ai-final-cta h2{font-size:25px;line-height:1.5;letter-spacing:-.8px;margin:0 0 9px;text-wrap:balance}.ai-final-cta p{font-size:13px;color:#71805e;margin:0}.ai-final-cta>a{white-space:nowrap;flex-shrink:0}
+.ai-related-label{font-size:12px;margin:34px 0 15px;color:#738568}
+.ai-overview-collection{margin-top:55px;border-top:1px solid #dfe5d9;padding-top:40px}.ai-overview-collection>h2{font-size:28px;letter-spacing:-1px}.ai-overview-collection>p{font-size:13px;color:#6f7c66;max-width:800px}
+.ai-overview-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin-top:24px}.ai-overview-grid>a{padding:22px;border:1px solid #dce4d2;border-radius:12px;background:#fff;display:flex;flex-direction:column;min-width:0}.ai-overview-grid>a:hover{background:#f3f7e7}.ai-overview-grid strong{font-size:18px}.ai-overview-grid p{font-size:11px;color:#74816b;line-height:1.8;margin:15px 0 22px}.ai-overview-grid span{color:#6b8c39;font-size:11px;margin-top:auto}
+@media(min-width:1450px){.ai-client-page .ie-hero-grid{grid-template-columns:0.86fr 1.14fr}.ai-client-page .ie-hero-copy h1{font-size:56px}}
+@media(max-width:1050px){.ai-client-nav>.ie-container{align-items:start;gap:15px}.ai-client-nav>.ie-container>a{padding-top:10px}.ai-client-page .ie-hero-grid{gap:25px}.ai-client-page .ie-hero-copy h1{font-size:38px}.ai-client-page .ie-hero-copy .ie-lead{font-size:13px}.ai-workflow{grid-template-columns:minmax(180px,0.8fr) minmax(0,1.8fr);gap:22px}.ai-workflow-prompt>p{font-size:12px}.ai-result-scroll{padding:22px}.ai-result-scroll h3{font-size:21px}.ai-source-list>a{grid-template-columns:200px 1fr 18px}.ai-overview-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:760px){.ai-client-nav>.ie-container{display:block}.ai-client-nav>.ie-container>a{display:block;padding:0 0 12px}.ai-client-links{gap:6px}.ai-client-links>a{font-size:10px;padding:6px 8px}.ai-client-page .ie-hero-grid{grid-template-columns:1fr;padding-top:26px;gap:28px;padding-bottom:23px}.ai-client-page .ie-hero-copy h1{font-size:clamp(34px,7vw,48px);letter-spacing:-1.5px}.ai-client-page .ie-hero-copy .ie-lead{font-size:14px}.ai-hero-shot{padding:10px}.ai-audience{font-size:10px;padding-bottom:30px}.ai-setup-details{width:calc(100% - 40px);margin-top:-25px;margin-bottom:48px}.ai-setup-endpoint{display:block;padding:17px}.ai-setup-endpoint>span{display:block;text-align:left;margin-top:12px;font-size:10px}.ai-setup-endpoint code{font-size:12px}.ai-setup-links{font-size:11px;gap:12px}.ai-setup-note{font-size:9px}.ai-workflow{grid-template-columns:1fr;gap:20px;margin-top:23px}.ai-workflow-prompt{padding:0}.ai-workflow-prompt>p{font-size:13px;margin:12px 0 18px}.ai-workflow-boundary{display:none}.ai-result-top{padding:14px 17px}.ai-result-tabs button{font-size:10px;padding:13px 5px;gap:6px}.ai-result-scroll{padding:20px 18px;height:420px;max-height:66svh}.ai-result-scroll h3{font-size:21px}.ai-metrics>div{padding:12px 9px}.ai-metrics strong{font-size:17px}.ai-metrics span{font-size:9px}.ai-source-list>a{grid-template-columns:1fr 18px;gap:9px;padding:18px}.ai-source-list>a>span{font-size:13px}.ai-source-list p{grid-column:1;font-size:11px;padding-left:47px}.ai-source-list>a>svg{grid-column:2;grid-row:1/3}.ai-schema-links a{font-size:11px}.ai-prompt-grid{grid-template-columns:1fr;gap:12px}.ai-prompt-grid article{padding:22px}.ai-prompt-grid h3{margin-top:20px}.ai-final-cta{display:block;padding:26px}.ai-final-cta h2{font-size:23px}.ai-final-cta>a{margin-top:24px}.ai-overview-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ai-overview-grid>a{padding:18px}.ai-overview-grid strong{font-size:16px}}
+@media(prefers-reduced-motion:reduce){.ai-client-page{scroll-behavior:auto}.ai-client-page *{transition:none!important}}
+@media(max-width:760px){.ai-client-nav .ai-client-links{flex-wrap:nowrap;overflow-x:auto;padding:2px 0 8px;scrollbar-width:thin;scrollbar-color:#c8d6af transparent}.ai-client-page .ie-breadcrumb{margin-bottom:0}.ai-client-page .ie-hero-grid{padding-top:20px}}
