@@ -52,6 +52,36 @@
 .ic-schema-explorer{scroll-margin-top:110px}
 
 .ic-schema-panel{scroll-margin-top:200px}
+
+/* Google Ads hero: a compact agent conversation with readable trend charts. */
+.ga-agent { width:100%; transform:none; }
+.ga-agent-body { padding:22px; }
+.ga-user-message { margin:0 0 20px 28px; padding:14px 17px; border-radius:16px 16px 3px 16px; background:#f0f4e9; color:#294033; }
+.ga-user-message small { font:10px monospace; color:#6b7f58; }
+.ga-user-message p { margin:5px 0 0; font-size:14px; line-height:1.65; }
+.ga-agent-identity { display:flex; align-items:center; gap:8px; font-size:12px; }
+.ga-agent-avatar { color:#6a9226; font-size:25px; line-height:1; }
+.ga-connected { display:inline-flex; align-items:center; gap:4px; margin-left:auto; color:#657b54; font-size:10px; }
+.ga-agent-answer { margin:12px 0; font-size:18px; font-weight:650; line-height:1.5; color:#102b22; }
+.ga-cpa { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:13px 16px; border:1px solid #e4e9df; border-radius:10px; background:#fafbf8; }
+.ga-cpa div>span { display:block; font-size:10px; color:#62726b; }
+.ga-cpa strong { display:block; margin-top:4px; font-size:25px; letter-spacing:-1px; }
+.ga-cpa strong span { color:#98a48c; font-weight:400; padding:0 8px; }
+.ga-cpa>b { color:#a14b35; font-size:13px; background:#fcf0e9; padding:5px 8px; border-radius:5px; }
+.ga-chart-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; margin-top:12px; }
+.ga-chart { min-width:0; margin:0; padding:12px 10px 0; border:1px solid #e5eae3; border-radius:10px; background:#fff; }
+.ga-chart figcaption>span { font-size:11px; color:#63736c; }
+.ga-chart figcaption>div { display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-top:4px; }
+.ga-chart strong { font-size:21px; color:#183026; }
+.ga-chart small { font-size:10px; color:#6d786f; }
+.ga-chart svg { display:block; width:100%; height:auto; margin-top:6px; }
+.ga-agent-next { font-size:12px; line-height:1.7; margin:14px 0 8px; color:#50645a; }
+.ga-agent-source { display:flex; flex-wrap:wrap; gap:4px 10px; margin:0 0 14px; font:9px/1.6 monospace; color:#7a867d; overflow-wrap:anywhere; }
+.ga-agent-followup { display:flex; justify-content:space-between; align-items:center; gap:12px; border-top:1px solid #e5eadd; padding-top:12px; font-size:12px; color:#4b701e; }
+.ga-agent-disclaimer { padding:12px 22px; border-top:1px solid #e5eadd; background:#f5f7ef; font-size:10px; line-height:1.6; color:#73816b; }
+@media(max-width:520px) { .ga-agent-body{padding:16px}.ga-user-message{margin-left:12px}.ga-agent-answer{font-size:17px}.ga-chart-grid{gap:10px;grid-template-columns:1fr}.ga-chart svg{max-height:160px}.ga-chart{padding:10px 6px 0}.ga-chart strong{font-size:19px}.ga-agent .ig-window-bar{padding:15px 16px}.ga-agent-disclaimer{padding:12px 16px} }
+
+.ga4-funnel{margin:14px 0;border:1px solid #e3e9e5;border-radius:12px;padding:16px;background:#fff}.ga4-funnel figcaption{display:flex;flex-wrap:wrap;gap:4px 12px;justify-content:space-between;margin-bottom:16px}.ga4-funnel figcaption strong{font-size:13px}.ga4-funnel figcaption>span{font-size:10px;color:#718077}.ga4-funnel ol{list-style:none;margin:0;padding:0;display:grid;gap:12px}.ga4-stage-label{display:flex;justify-content:space-between;gap:10px;font-size:12px;margin-bottom:6px}.ga4-stage-label small{color:#8a96a0;font:10px monospace;margin-right:8px}.ga4-stage-track{height:15px;border-radius:3px;background:#f3f6fb;overflow:hidden}.ga4-stage-track>div{height:100%;border-radius:3px}.ga4-stage-meta{display:flex;justify-content:space-between;gap:5px;margin-top:5px;font-size:9px;color:#77867f}.ga4-stage-meta code{font-size:9px}.ga4-insight{padding:12px 14px;background:#f0f5e4;border-left:3px solid #b8da53;border-radius:0 8px 8px 0;margin:0 0 12px}.ga4-insight strong{font-size:13px}.ga4-insight p{font-size:12px;line-height:1.7;margin:5px 0 0;color:#526653}
 /* Generated from the selected Figma section components. Run scripts/build-integration-template-css.cjs. */
 *, ::before, ::after {
     --tw-border-spacing-x: 0;
