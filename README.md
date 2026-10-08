@@ -7,6 +7,11 @@ Standalone bilingual HTML previews published with GitHub Pages.
 
 This repository contains the public preview artifacts only. The application source is maintained separately.
 
+## Customer stories
+
+- [Babeside 客户故事](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/babeside.html)
+- [Ikarao 客户故事](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/ikarao.html)
+
 
 ## Integration page examples
 
