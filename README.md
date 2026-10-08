@@ -10,7 +10,9 @@ This repository contains the public preview artifacts only. The application sour
 ## Customer stories
 
 - [Babeside 客户故事](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/babeside.html)
+- [Babeside customer story (English)](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/babeside-en.html)
 - [Ikarao 客户故事](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/ikarao.html)
+- [Ikarao customer story (English)](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/case-studies/ikarao-en.html)
 
 
 ## Integration page examples
