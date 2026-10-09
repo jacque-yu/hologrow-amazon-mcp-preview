@@ -9,11 +9,12 @@ This repository contains the public preview artifacts only. The application sour
 
 ## Use-case previews
 
-- [Amazon Seller 数据分析：利润、广告与库存](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/use-cases/amazon-seller-analytics/)
+- [中文 Use Cases 总览](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/use-cases/)
+- [English Use Cases index](https://jacque-yu.github.io/hologrow-amazon-mcp-preview/en/use-cases/)
 
-The use-case preview is a permanent standalone HTML snapshot. It keeps the production
-Hologrow canonical URL and is marked `noindex` so the preview cannot compete with the
-production page in search.
+The indexes link to 16 bilingual, permanent standalone HTML use-case previews. Each
+preview keeps its production Hologrow canonical URL and is marked `noindex` so these
+GitHub Pages snapshots cannot compete with production pages in search.
 
 ## Customer stories
 
