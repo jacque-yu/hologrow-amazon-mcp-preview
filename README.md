@@ -14,7 +14,14 @@ This repository contains the public preview artifacts only. The application sour
 
 The indexes link to 16 bilingual, permanent standalone HTML use-case previews. Each
 preview keeps its production Hologrow canonical URL and is marked `noindex` so these
-GitHub Pages snapshots cannot compete with production pages in search.
+GitHub Pages snapshots are intended to stay out of search and avoid competing with production pages.
+
+Updated October 9, 2026: all 16 use cases now include three interactive fictional
+agent responses with progressive reveal and replay, six business-specific workflow
+prompts, documented report/field evidence, role-specific operating pains, and at
+least six business FAQs per language. The static pages preserve these interactions
+and matching FAQ structured data without requiring a Next.js server. External
+inputs and third-party publishing tools are labeled separately from Hologrow data.
 
 ## Customer stories
 
